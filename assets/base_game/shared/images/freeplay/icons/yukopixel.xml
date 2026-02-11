@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yukoiconpixel.png">
+	<!-- Created with Adobe Animate version 24.0.12.3 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yukopixel0000" x="23" y="23" width="46" height="29"/>
+	<SubTexture name="yukopixel0001" x="23" y="23" width="46" height="29"/>
+	<SubTexture name="yukopixel0002" x="23" y="23" width="46" height="29"/>
+	<SubTexture name="yukopixel0003" x="92" y="23" width="46" height="29"/>
+	<SubTexture name="yukopixel0004" x="92" y="23" width="46" height="29"/>
+	<SubTexture name="yukopixel0005" x="92" y="23" width="46" height="29"/>
+	<SubTexture name="yukopixel0006" x="161" y="23" width="46" height="29"/>
+	<SubTexture name="yukopixel0007" x="161" y="23" width="46" height="29"/>
+	<SubTexture name="yukopixel0008" x="161" y="23" width="46" height="29"/>
+	<SubTexture name="yukopixel0009" x="23" y="75" width="46" height="29"/>
+	<SubTexture name="yukopixel0010" x="23" y="75" width="46" height="29"/>
+	<SubTexture name="yukopixel0011" x="23" y="75" width="46" height="29"/>
+	<SubTexture name="yukopixel0012" x="92" y="75" width="46" height="29"/>
+	<SubTexture name="yukopixel0013" x="92" y="75" width="46" height="29"/>
+	<SubTexture name="yukopixel0014" x="92" y="75" width="46" height="29"/>
+</TextureAtlas>
